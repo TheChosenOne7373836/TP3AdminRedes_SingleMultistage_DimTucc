@@ -6,11 +6,11 @@ Hecho por [@Peanut](https://github.com/PeanutSouth) y [@Chosen](https://github.c
 *Esto solo es una demostracion sobre dockers singlestage & multistage. No es un projecto que será mantenido en el futuro. Gracias por entender!
 
 1) Entrar a la carpeta e ingresar a svelte-docker:
-   Windows:  
+   1. Windows:  
 ```sh
 cd .\svelte-docker\
 ```
-   Linux:
+   2. Linux:
 ```sh
 cd express-gen-ts/
 ```
