@@ -11,7 +11,7 @@ Hecho por [@Peanut](https://github.com/PeanutSouth) y [@Chosen](https://github.c
 cd .\svelte-docker\
 ```
 ```sh
-cd express-gen-ts/
+cd svelte-docker
 ```
 
 2) Una vez en svelte-docker ejecutar el siguiente comando: 
